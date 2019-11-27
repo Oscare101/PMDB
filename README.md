@@ -204,11 +204,11 @@
 Описує всі процедури, пов&#39;язані з установкою і налаштуванням ПЗ, необхідні для встановлення сервісів компанії.
 
 ## Юз-кейси
-![](https://i.imgur.com/sZevk15.jpg)
+![](https://i.imgur.com/p2Mazaf.jpg)
 
-![](https://i.imgur.com/XEnKuO3.jpg)
+![](https://i.imgur.com/C5ocHft.jpg)
 
-![](https://i.imgur.com/qODph8P.jpg)
+![](https://i.imgur.com/RNSIvLb.jpg)
 
 ![](https://i.imgur.com/3FJwzSl.jpg)
 
